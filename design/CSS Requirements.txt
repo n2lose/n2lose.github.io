@@ -1,0 +1,10 @@
+ * Clean HTML, CSS, LESS and JS files
+ * Using Bootstrap
+ * Using LESS (Can customize Bootstrap less via Variables is big plus)
+ * Full responsive by Bootstrap breakpoints
+ * Using WebFont via Google Font or by yourself is acceptable
+ * Using FontAwesome for icons is needed
+ * Customize google map marker in Contact (Let's Discuss) section
+ * Parallax scroll effect for banner and Some fun facts section
+ * Works section: Filter should be work when click on "All", "Branding", etc... category
+ * Meet our team: Carousel has to work on mobile and tablet too
